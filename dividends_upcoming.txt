@@ -1,0 +1,54 @@
+Run ./dividends.sh and check output.
+
+Historical data in: reports/monthly_dividends.txt
+
+================================================================================
+Ex-dividends coming up
+================================================================================
+
+Apr
+PNN  Pennon Group              FTSE 250       12.84p             04-Apr                      - 64
+HSBA HSBC Holdings             FTSE 100       $0.21 (15.9271p)   08-Apr                      - 80
+GSK  GlaxoSmithKline           FTSE 100       23p                11-Apr                      - 67
+LAND Land Securities Group     FTSE 100       11.3p              12-Apr                      - 50
+RIO  Rio Tinto            FTSE 100  4356p   319.51p  7.33%  Dividend      07-Mar   18-Apr    - 204 TODO
+TOTAL: 466
+
+May
+BLND Company              FTSE 100  580.2p  7.75p    1.34%  Dividend      28-Mar   03-May - 30  EX
+BATS Tobacco              FTSE 100  2863p   50.75p   1.77%  Dividend      21-Mar   08-May - 30  EX
+PSON Pearson              FTSE 100  854.2p  13p      1.52%  Dividend      04-Apr   10-May - 45  EX
+IMI  IMI                  FTSE 250  941p    26p      2.76%  Dividend      04-Apr   17-May - 60  EX
+DLG  Insurance Group      FTSE 100  353.3p  22.3p    6.31%  Dividend      04-Apr   16-May - 330 EX
+WG.  Wood Group (John)    FTSE 250  510.8p  $0.237   3.51%  Dividend      25-Apr   16-May - 180 EX
+BBA  BBA Aviation         FTSE 250  234p    $0.1007  3.31%  Dividend      11-Apr   24-May - 100 EX
+SLA  Aberdeen             FTSE 100  255.6p  14.3p    5.59%  Dividend      11-Apr   21-May - 285 EX
+LLOY Lloyds Banking Group FTSE 100  60.53p  2.14p    3.54%  Dividend      04-Apr   21-May - 100 EX
+AV.  Aviva                FTSE 100  414.9p  20.75p   5.00%  Dividend      11-Apr   30-May - 205 EX
+ISAT Inmarsat             FTSE 250  439.1p  $0.12    2.10%  Dividend      18-Apr   30-May - 30  EX
+TOTAL: 1365
+
+Jun
+BA.  BAE Systems          FTSE 100  475.9p  13.2p    2.77%  Dividend      18-Apr   03-Jun - 72  EX
+GFS  G4S                  FTSE 250  192.6p  6.11p    3.17%  Dividend      02-May   14-Jun - 80
+WMH  William Hill         FTSE 250  183.45p 7.7p     4.20%  Dividend      25-Apr   06-Jun - 115
+LGEN Group                FTSE 100  268.3p  11.82p   4.41%  Dividend      25-Apr   06-Jun - 180
+CNA  Centrica             FTSE 100  125.1p  8.4p     6.71%  Dividend      09-May   27-Jun - 200
+TOTAL: 660
+
+Jul
+WPP  WPP                  FTSE 100  866.2p  37.3p    4.31%  Dividend      13-Jun   08-Jul - 160
+MRW  Supermarkets         FTSE 100  225p    8.75p    3.89%  Dividend      23-May   01-Jul - 100
+TOTAL: 260
+
+EX: 1365 + 72 = 1437
+
+
+
+Amec Foster Wheeler  0    Astra Zenica         55   Aviva                1055 BAE Systems          550  Barclays             0    British American To  60
+BBA Aviation         1275 British Land         387  BP                   967  British Telecom      1500 Capita               5640 Centrica             2400
+G4s                  1250 GlaxtSmithKline      292  HSBC                 500  IMB                  175  IMI                  250  Inmarsat             318
+John Wood Group      1042 Legal&General        1700 Lloyds Banking Grou  5500 Marks and Spencer G  800  WM Morrison Retaile  1190 National Grid        206
+Pennon               500  Pearson              401  Rio Tinto            64   Royal Dutch Shell    200  Royal Mail Group     1000 J Sainsbury          1286
+SSE                  300  Severn Trent         242  Stagecoach           3000 TalkTalk             1666 Unilever             82   Vodafone             1050
+William Hill         1500 WPP                  450  LandSec              550  Direct Line Group    1500 Standard Life Aberdn 2000
